@@ -1,0 +1,11 @@
+Pandas
+Numpy
+tensorflow
+Sklearn
+keras
+matplotlib
+seaborn
+fastapi
+uvicorn
+pillow
+python-multipart
