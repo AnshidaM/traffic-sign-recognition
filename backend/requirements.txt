@@ -1,7 +1,7 @@
 Pandas
 Numpy
 tensorflow
-Sklearn
+scikit-learn
 keras
 matplotlib
 seaborn

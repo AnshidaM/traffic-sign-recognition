@@ -17,7 +17,7 @@ export default function Home() {
     const formData = new FormData();
     formData.append("file", file);
 
-    const res = await fetch("http://backend:8000/predict", {
+    const res = await fetch("https://anshidam-project2.hf.space/predict", {
       method: "POST",
       body: formData,
     });
